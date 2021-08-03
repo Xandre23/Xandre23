@@ -26,7 +26,7 @@
   
   <div>
  
-    <h1>Entre em contato comigo</h1>
+    
  	
 
   <a href = "mailto:xandredepaula2312@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
