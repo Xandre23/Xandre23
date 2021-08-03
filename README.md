@@ -32,15 +32,15 @@
  	
 ## Redes sociais e Contato
 
-<a href="mailto:falecom@leone.tec.br">
+<a href="mailto:xandredepaula2312@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://t.me/leonetecbr">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://api.whatsapp.com/send?phone=5511987527124&text=Ol%C3%A1%2C%20Bem%20vindo!">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/leone-oliveira-509b111ba">
+<a href="https://www.linkedin.com/in/xandre23/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
     
