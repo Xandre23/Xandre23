@@ -2,7 +2,7 @@
 
 - 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 4ºsemestre.
 - 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
-- 🌱 I’m currently learning ...ANGULAR, JAVA e JavaScript
+- 🌱 Atualmente estou aprendendo... JAVA, JavaScript e AngularJS 
 - 👀 A meta é ser fullStack, mas atualmente estou focado em aprimorar meus conhecimento em BACK-END.
 - 💬 Aberto para freelances, estágio e afins.
 ->
