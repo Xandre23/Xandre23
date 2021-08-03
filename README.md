@@ -1,7 +1,7 @@
   ### Hi there 👋 Eu sou o Xandre De Paula
 
 
-- 🔭 I’m currently working on ...   A procura do primeiro emprego com foco em back-end
+- 🔭 Atualmente estou a procura do primeiro emprego na área de desenvolvimento.  
 - 🌱 I’m currently learning ...ANGULAR, JAVA 
 - 👯 I’m looking to collaborate on ...  Back-end
 - 💬 Ask me about ...
