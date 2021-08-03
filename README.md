@@ -24,7 +24,7 @@
   <img align="center" alt="xand-ANGULAR" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   
   
-  <div>
+  
  
     
  
