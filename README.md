@@ -19,6 +19,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="xand-JAVA" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="xand-ANGULAR" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="right" alt="xandre-programador" src="https://3.bp.blogspot.com/-K-Zq3zUy6Jc/VQR2tr-cRmI/AAAAAAACGHc/SCmGq9UtYxQ/s1600/73.gif">
     
 </div>
   
