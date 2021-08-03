@@ -29,7 +29,7 @@
   <div>
  
     
- 	
+ <div>	
 ## Redes sociais e Contato
 
 <a href="mailto:xandredepaula2312@gmail.com">
@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/xandre23/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-    
+    </div>  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
