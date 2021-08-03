@@ -1,11 +1,11 @@
   ### Hi there 👋 Eu sou o Xandre De Paula
 
-
-- 🔭 Atualmente estou a procura do primeiro emprego na área de desenvolvimento.  
+- 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 4ºsemestre.
+- 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
 - 🌱 I’m currently learning ...ANGULAR, JAVA e JavaScript
-- 👯 I’m looking to collaborate on ...  Back-end
-- 💬 Ask me about ...
--->
+- 👀 A meta é ser fullStack, mas atualmente estou focado em aprimorar meus conhecimento em BACK-END.
+- 💬 Aberto para freelances, estágio e afins.
+->
 
  <div align="center">
   <a href="https://github.com/xandre23">
