@@ -46,12 +46,13 @@
     
     
   ## Total de Visitas no perfil 👀 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/xandre23/count.svg" /> </p>
- 
+  
     
     
     
     
  
-  ![Snake animation](https://github.com/Xandre23/Xandre23/blob/output/github-contribution-grid-snake.svg)
+  
+ ![Snake animation](https://github.com/Xandre23/Xandre23/blob/output/github-contribution-grid-snake.svg)
  
 
