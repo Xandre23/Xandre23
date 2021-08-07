@@ -55,7 +55,6 @@
   
  
   
-  ![Snake animation](https://github.com/Xandre23/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/Xandre23/Xandre23/blob/output/github-contribution-grid-snake.svg)
  
 
