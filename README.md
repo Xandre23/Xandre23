@@ -5,6 +5,7 @@
 - 🌱 Atualmente estou aprendendo... JAVA, JavaScript e AngularJS 
 - 👀 A meta é ser fullStack, mas atualmente estou focado em aprimorar meus conhecimento em BACK-END.
 - 💬 Aberto para freelances, estágio e afins.
+- Link para o meu Portfolio: https://xandre23.github.io/Portfolio/
 ->
 
  <div align="center">
