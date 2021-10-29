@@ -2,7 +2,7 @@
 
 - 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 4ºsemestre.
 - 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
-- 🌱 Atualmente estou aprendendo... JAVA, JavaScript e AngularJS 
+- 🌱 Atualmente estou aprendendo... JAVA, JavaScript e C#
 - 👀 A meta é ser fullStack, mas atualmente estou focado em aprimorar meus conhecimento em BACK-END.
 - 💬 Aberto para freelances, estágio e afins.
 - Link para o meu Portfolio: https://xandre23.github.io/Portfolio/
@@ -20,7 +20,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="xand-JAVA" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="xand-ANGULAR" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="xand-mysqlR" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="right" alt="xandre-programador" src="https://3.bp.blogspot.com/-K-Zq3zUy6Jc/VQR2tr-cRmI/AAAAAAACGHc/SCmGq9UtYxQ/s1600/73.gif">
     
