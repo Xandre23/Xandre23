@@ -22,6 +22,7 @@
   <img align="center" alt="xand-JAVA" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="xand-mysqlR" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="right" alt="xandre-programador" src="https://3.bp.blogspot.com/-K-Zq3zUy6Jc/VQR2tr-cRmI/AAAAAAACGHc/SCmGq9UtYxQ/s1600/73.gif">
+    <img align="right" alt="xandre-programador" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     
 </div>
   
