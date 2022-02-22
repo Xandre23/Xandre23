@@ -1,6 +1,6 @@
   ### Hi there 👋 Eu sou o Xandre De Paula
 
-- 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 4ºsemestre.
+- 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 5ºsemestre.
 - 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
 - 🌱 Atualmente estou aprendendo... C#, .NET CORE, JAVA, BANCO DE DADOS.
 - 👀  atualmente estou focado em aprimorar meus conhecimento em BACK-END.
