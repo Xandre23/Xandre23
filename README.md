@@ -2,9 +2,9 @@
 
 - 🤓 Estou cursando Analise desenvolvimento de sistema, atualmente no 4ºsemestre.
 - 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
-- 🌱 Atualmente estou aprendendo... JAVA, JavaScript e C#
-- 👀 A meta é ser fullStack, mas atualmente estou focado em aprimorar meus conhecimento em BACK-END.
-- 💬 Aberto para freelances, estágio e afins.
+- 🌱 Atualmente estou aprendendo... C#, .NET CORE,JAVA, BANCO DE DADOS.
+- 👀  atualmente estou focado em aprimorar meus conhecimento em BACK-END.
+- 💬 Aberto para freelances, estágio e JR.
 - Link para o meu Portfolio: https://xandre23.github.io/Portfolio/
 
 ->
