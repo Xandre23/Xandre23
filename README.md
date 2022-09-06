@@ -2,7 +2,7 @@
 
 - 🤓 Formado em Analise e desenvolvimento de sistema.
 - 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
-- 🌱 Atualmente estou aprendendo... C#, .NET CORE, JAVA, BANCO DE DADOS.
+- 🌱 Atualmente estou aprendendo... C#, .NET CORE, JAVA e MYSQL.
 - 👀  atualmente estou focado em aprimorar meus conhecimento em BACK-END.
 - 💬 Aberto para freelances, estágio e JR.
 - Link para o meu Portfolio: https://xandre23.github.io/Portfolio/
