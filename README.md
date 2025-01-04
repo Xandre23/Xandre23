@@ -5,7 +5,7 @@
 🌱 **Atualmente estou aprendendo:** C#, .NET Core, Java, MySQL e PHP.  
 👀 **Focado em aprimorar meus conhecimentos em Back-End.**  
 💬 **Aberto para freelances, vagas de trainee, júnior e estágio.**  
-🎓 **Fazendo faculdade de Sistemas para Internet.**
+🎓 **Cursando Sistemas para Internet.**
 
 
  <div align="center">
