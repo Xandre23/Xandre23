@@ -1,12 +1,10 @@
-  ### Hi there 👋 Eu sou o Xandre De Paula
-
-- 🤓 Formado em Analise e desenvolvimento de sistema.
-- 🔭 estou a procura do primeiro emprego na área de desenvolvimento.  
-- 🌱 Atualmente estou aprendendo... C#, .NET CORE, JAVA e MYSQL.
-- 👀  atualmente estou focado em aprimorar meus conhecimento em BACK-END.
-- 💬 Aberto para freelances, treinee e JR.
-
-->
+Olá, eu sou o Xandre De Paula 👋
+🤓 Formado em Análise e Desenvolvimento de Sistemas.
+🔭 Procurando o primeiro emprego na área de desenvolvimento.
+🌱 Atualmente estou aprendendo: C#, .NET Core, Java, MySQL e PHP.
+👀 Focado em aprimorar meus conhecimentos em Back-End.
+💬 Aberto para freelances, vagas de trainee, júnior e estágio.
+🎓 Fazendo faculdade de Sistemas para Internet.
 
  <div align="center">
   <a href="https://github.com/xandre23">
